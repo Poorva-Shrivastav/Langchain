@@ -21,3 +21,7 @@
 # 10. create retriever to read the data context that we get from this vector
 
 # 11. with create_retrieval_chain, retrieve the final doc
+
+Google API key : https://aistudio.google.com/apikey
+
+GROQ API Key : https://console.groq.com/keys
